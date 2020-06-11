@@ -21,6 +21,7 @@ amo		Latn			cldr
 	an	Latn			cldr
 anp		Deva			cldr
 aoz		Latn			cldr
+apu		Latn			giellatekno
 	ar	Arab			cldr
 arn		Latn			cldr
 aro		Latn			cldr
@@ -72,7 +73,7 @@ bjj		Deva			cldr
 bjn		Latn			cldr
 bkm		Latn			cldr
 bku		Latn			cldr
-bla		Latn			cldr
+bla		Cans			giellatekno
 blt		Tavt			cldr
 	bm	Nkoo			cldr
 	bm	Latn			cldr
@@ -128,9 +129,9 @@ cps		Latn			cldr
 	cr	Latn			cldr
 	cr	Cans			cldr
 crh		Cyrl			cldr
-crj		Cans			cldr
-crk		Latn			github
-crl		Cans			cldr
+crj		Latn			giellatekno
+crk		Latn			giellatekno
+crl		Latn			cldr
 crm		Cans			cldr
 crs		Latn			cldr
 	cs	Latn			cldr
@@ -171,6 +172,7 @@ eky		Kali			cldr
 	en	Latn			cldr
 	eo	Latn			cldr
 	es	Latn			cldr
+ess		Latn			giellatekno
 esu		Latn			cldr
 	et	Latn			cldr
 	eu	Latn			cldr
@@ -189,6 +191,7 @@ fit		Latn			cldr
 	fo	Latn			cldr
 fon		Latn			cldr
 	fr	Latn			cldr
+fkv		Latn			giellatekno
 frc		Latn			cldr
 frp		Latn			cldr
 frr		Latn			cldr
@@ -238,6 +241,7 @@ hai		Latn			cldr
 hak		Hans			cldr
 haw		Latn			cldr
 haz		Arab			cldr
+hdn		Latn			giellatekno
 	he	Hebr			cldr
 	hi	Deva			cldr
 hif		Latn			cldr
@@ -275,7 +279,6 @@ inh		Cyrl			cldr
 	is	Latn			cldr
 	it	Latn			cldr
 	iu	Latn			cldr
-	iu	Cans			cldr
 izh		Latn			cldr
 	ja	Jpan			cldr
 jam		Latn			cldr
@@ -299,6 +302,7 @@ kck		Latn			cldr
 kde		Latn			cldr
 kdt		Thai			cldr
 kea		Latn			cldr
+kek		Latn			giellatekno
 kfo		Latn			cldr
 kfr		Deva			cldr
 kfy		Deva			cldr
@@ -307,11 +311,13 @@ kge		Latn			cldr
 kgp		Latn			cldr
 kha		Latn			cldr
 khb		Talu			cldr
+khk		Cyrl			giellatekno
 khn		Deva			cldr
 khq		Latn			cldr
 kht		Mymr			cldr
 khw		Arab			cldr
 	ki	Latn			cldr
+kio		Latn			giellatekno
 kiu		Latn			cldr
 	kj	Latn			cldr
 kjg		Laoo			cldr
@@ -329,6 +335,7 @@ koi		Cyrl			cldr
 kok		Deva			cldr
 kos		Latn			cldr
 kpe		Latn			cldr
+kpv		Cyrl			giellatekno
 kpy		Cyrl			cldr
 	kr	Latn			cldr
 krc		Cyrl			cldr
@@ -419,6 +426,7 @@ mgo		Latn			cldr
 mgp		Deva			cldr
 mgy		Latn			cldr
 	mh	Latn			cldr
+mhr		Cyrl			giellatekno
 	mi	Latn			cldr
 mic		Latn			cldr
 min		Latn			cldr
@@ -478,6 +486,7 @@ nnh		Latn			cldr
 nod		Lana			cldr
 noe		Deva			cldr
 nog		Cyrl			cldr
+non		Runr			giellatekno
 nqo		Nkoo			cldr
 	nr	Latn			cldr
 nsk		Cans			cldr
@@ -491,7 +500,8 @@ nyn		Latn			cldr
 nyo		Latn			cldr
 nzi		Latn			cldr
 	oc	Latn			cldr
-	oj	Cans			cldr
+	oj	Latn			giellatekno
+olo		Latn			giellatekno
 	om	Latn			cldr
 	or	Orya			cldr
 	os	Cyrl			cldr
@@ -535,8 +545,10 @@ rkt		Beng			cldr
 	rm	Latn			cldr
 rmf		Latn			cldr
 rmo		Latn			cldr
+rmn		Latn			cldr
 rmt		Arab			cldr
 rmu		Latn			cldr
+rmy		Latn			giellatekno
 	rn	Latn			cldr
 rng		Latn			cldr
 	ro	Latn			cldr
@@ -573,6 +585,7 @@ see		Latn			cldr
 sef		Latn			cldr
 seh		Latn			cldr
 sei		Latn			cldr
+sel		Cyrl			giellatekno
 ses		Latn			cldr
 	sg	Latn			cldr
 sgs		Latn			cldr
@@ -582,6 +595,9 @@ shi		Arab			cldr
 shn		Mymr			cldr
 	si	Sinh			cldr
 sid		Latn			cldr
+sjd		Cyrl			giellatekno
+sje		Latn			giellatekno
+sjt		Cyrl			giellatekno
 	sk	Latn			cldr
 skr		Arab			cldr
 	sl	Latn			cldr
@@ -602,7 +618,7 @@ sou		Thai			cldr
 srb		Latn			cldr
 srn		Latn			cldr
 srr		Latn			cldr
-srs		Latn			github
+srs		Latn			giellatekno
 srx		Deva			cldr
 	ss	Latn			cldr
 ssy		Latn			cldr
@@ -636,6 +652,7 @@ tet		Latn			cldr
 	tg	Latn			cldr
 	tg	Cyrl			cldr
 	tg	Arab			cldr
+tgl	tl	Latn			giellatekno
 	th	Thai			cldr
 thl		Deva			cldr
 thq		Deva			cldr
@@ -650,7 +667,9 @@ tkl		Latn			cldr
 tkr		Latn			cldr
 tkr		Cyrl			cldr
 tkt		Deva			cldr
+tku		Latn			giellatekno
 tli		Latn			cldr
+tlh		Piqd			giellatekno
 tly		Latn			cldr
 tly		Cyrl			cldr
 tly		Arab			cldr
@@ -674,6 +693,7 @@ tts		Thai			cldr
 ttt		Latn			cldr
 ttt		Cyrl			cldr
 tum		Latn			cldr
+tuv		Latn			giellatekno
 tvl		Latn			cldr
 twq		Latn			cldr
 	ty	Latn			cldr
@@ -750,3 +770,13 @@ zmi		Latn			cldr
 	zu	Latn			cldr
 zun		Latn			cldr
 zza		Latn			cldr
+vot		Latn			giellatekno
+lut		Latn			giellatekno
+ciw		Latn			giellatekno
+bxr		Cyrl			giellatekno
+ndl		Latn			giellatekno
+nio		Cyrl			giellatekno
+tau		Latn			giellatekno
+liv		Latn			giellatekno
+xwo		Mong			giellatekno
+sto		Latn			giellatekno
