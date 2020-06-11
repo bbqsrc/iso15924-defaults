@@ -1,0 +1,752 @@
+tag3	tag1	script	region	lcid	source
+	aa	Latn			cldr
+	ab	Cyrl			cldr
+abq		Cyrl			cldr
+abr		Latn			cldr
+ace		Latn			cldr
+ach		Latn			cldr
+ada		Latn			cldr
+ady		Cyrl			cldr
+aeb		Arab			cldr
+	af	Latn			cldr
+agq		Latn			cldr
+aii		Syrc			cldr
+	ak	Latn			cldr
+akz		Latn			cldr
+ale		Latn			cldr
+aln		Latn			cldr
+alt		Cyrl			cldr
+	am	Ethi			cldr
+amo		Latn			cldr
+	an	Latn			cldr
+anp		Deva			cldr
+aoz		Latn			cldr
+	ar	Arab			cldr
+arn		Latn			cldr
+aro		Latn			cldr
+arp		Latn			cldr
+arq		Arab			cldr
+ars		Arab			cldr
+ary		Arab			cldr
+arz		Arab			cldr
+	as	Beng			cldr
+asa		Latn			cldr
+ast		Latn			cldr
+atj		Latn			cldr
+	av	Cyrl			cldr
+awa		Deva			cldr
+	ay	Latn			cldr
+	az	Latn			cldr
+	az	Cyrl			cldr
+	az	Arab			cldr
+	ba	Cyrl			cldr
+bal		Arab			cldr
+ban		Latn			cldr
+bap		Deva			cldr
+bar		Latn			cldr
+bas		Latn			cldr
+bax		Bamu			cldr
+bbc		Latn			cldr
+bbj		Latn			cldr
+bci		Latn			cldr
+	be	Cyrl			cldr
+bej		Arab			cldr
+bem		Latn			cldr
+bew		Latn			cldr
+bez		Latn			cldr
+bfd		Latn			cldr
+bfq		Taml			cldr
+bft		Arab			cldr
+bfy		Deva			cldr
+	bg	Cyrl			cldr
+bgc		Deva			cldr
+bgn		Arab			cldr
+bgx		Grek			cldr
+bhb		Deva			cldr
+bhi		Deva			cldr
+bho		Deva			cldr
+	bi	Latn			cldr
+bik		Latn			cldr
+bin		Latn			cldr
+bjj		Deva			cldr
+bjn		Latn			cldr
+bkm		Latn			cldr
+bku		Latn			cldr
+bla		Latn			cldr
+blt		Tavt			cldr
+	bm	Nkoo			cldr
+	bm	Latn			cldr
+bmq		Latn			cldr
+	bn	Beng			cldr
+	bo	Tibt			cldr
+bpy		Beng			cldr
+bqi		Arab			cldr
+bqv		Latn			cldr
+	br	Latn			cldr
+bra		Deva			cldr
+brh		Arab			cldr
+brx		Deva			cldr
+	bs	Latn			cldr
+	bs	Cyrl			cldr
+bss		Latn			cldr
+bto		Latn			cldr
+btv		Deva			cldr
+bua		Cyrl			cldr
+buc		Latn			cldr
+bug		Latn			cldr
+bum		Latn			cldr
+bvb		Latn			cldr
+byn		Ethi			cldr
+byv		Latn			cldr
+bze		Latn			cldr
+bzx		Latn			cldr
+	ca	Latn			cldr
+cad		Latn			cldr
+car		Latn			cldr
+cay		Latn			cldr
+cch		Latn			cldr
+ccp		Cakm			cldr
+ccp		Beng			cldr
+	ce	Cyrl			cldr
+ceb		Latn			cldr
+cgg		Latn			cldr
+	ch	Latn			cldr
+chk		Latn			cldr
+chm		Cyrl			cldr
+cho		Latn			cldr
+chp		Latn			cldr
+chr		Cher			cldr
+chy		Latn			cldr
+cic		Latn			cldr
+cja		Arab			cldr
+cjm		Cham			cldr
+cjs		Cyrl			cldr
+ckb		Arab			cldr
+ckt		Cyrl			cldr
+	co	Latn			cldr
+cps		Latn			cldr
+	cr	Latn			cldr
+	cr	Cans			cldr
+crh		Cyrl			cldr
+crj		Cans			cldr
+crk		Latn			github
+crl		Cans			cldr
+crm		Cans			cldr
+crs		Latn			cldr
+	cs	Latn			cldr
+csw		Cans			cldr
+ctd		Latn			cldr
+	cv	Cyrl			cldr
+	cy	Latn			cldr
+	da	Latn			cldr
+dak		Latn			cldr
+dar		Cyrl			cldr
+dav		Latn			cldr
+dcc		Arab			cldr
+	de	Latn			cldr
+del		Latn			cldr
+den		Latn			cldr
+dgr		Latn			cldr
+din		Latn			cldr
+dje		Latn			cldr
+dng		Cyrl			cldr
+dnj		Latn			cldr
+doi		Arab			cldr
+dsb		Latn			cldr
+dtm		Latn			cldr
+dtp		Latn			cldr
+dty		Deva			cldr
+dua		Latn			cldr
+	dv	Thaa			cldr
+dyo		Latn			cldr
+dyu		Latn			cldr
+	dz	Tibt			cldr
+ebu		Latn			cldr
+	ee	Latn			cldr
+efi		Latn			cldr
+egl		Latn			cldr
+eka		Latn			cldr
+eky		Kali			cldr
+	el	Grek			cldr
+	en	Latn			cldr
+	eo	Latn			cldr
+	es	Latn			cldr
+esu		Latn			cldr
+	et	Latn			cldr
+	eu	Latn			cldr
+evn		Cyrl			cldr
+ewo		Latn			cldr
+ext		Latn			cldr
+	fa	Arab			cldr
+fan		Latn			cldr
+	ff	Latn			cldr
+ffm		Latn			cldr
+	fi	Latn			cldr
+fia		Arab			cldr
+fil		Latn			cldr
+fit		Latn			cldr
+	fj	Latn			cldr
+	fo	Latn			cldr
+fon		Latn			cldr
+	fr	Latn			cldr
+frc		Latn			cldr
+frp		Latn			cldr
+frr		Latn			cldr
+frs		Latn			cldr
+fud		Latn			cldr
+fuq		Latn			cldr
+fur		Latn			cldr
+fuv		Latn			cldr
+fvr		Latn			cldr
+	fy	Latn			cldr
+	ga	Latn			cldr
+gaa		Latn			cldr
+gag		Latn			cldr
+gan		Hans			cldr
+gay		Latn			cldr
+gba		Latn			cldr
+gbm		Deva			cldr
+gbz		Arab			cldr
+gcr		Latn			cldr
+	gd	Latn			cldr
+gil		Latn			cldr
+gjk		Arab			cldr
+gju		Arab			cldr
+	gl	Latn			cldr
+gld		Cyrl			cldr
+glk		Arab			cldr
+	gn	Latn			cldr
+gom		Deva			cldr
+gon		Telu			cldr
+gon		Deva			cldr
+gor		Latn			cldr
+gos		Latn			cldr
+grb		Latn			cldr
+grt		Beng			cldr
+gsw		Latn			cldr
+	gu	Gujr			cldr
+gub		Latn			cldr
+guc		Latn			cldr
+gur		Latn			cldr
+guz		Latn			cldr
+	gv	Latn			cldr
+gvr		Deva			cldr
+gwi		Latn			cldr
+	ha	Latn			cldr
+	ha	Arab			cldr
+hai		Latn			cldr
+hak		Hans			cldr
+haw		Latn			cldr
+haz		Arab			cldr
+	he	Hebr			cldr
+	hi	Deva			cldr
+hif		Latn			cldr
+hif		Deva			cldr
+hil		Latn			cldr
+hmd		Plrd			cldr
+hmn		Latn			cldr
+hnd		Arab			cldr
+hne		Deva			cldr
+hnj		Laoo			cldr
+hnn		Latn			cldr
+hno		Arab			cldr
+	ho	Latn			cldr
+hoc		Deva			cldr
+hoj		Deva			cldr
+hop		Latn			cldr
+	hr	Latn			cldr
+hsb		Latn			cldr
+hsn		Hans			cldr
+	ht	Latn			cldr
+	hu	Latn			cldr
+hup		Latn			cldr
+	hy	Armn			cldr
+	hz	Latn			cldr
+iba		Latn			cldr
+ibb		Latn			cldr
+	id	Latn			cldr
+ife		Latn			cldr
+	ig	Latn			cldr
+	ii	Yiii			cldr
+	ik	Latn			cldr
+ikt		Latn			cldr
+ilo		Latn			cldr
+inh		Cyrl			cldr
+	is	Latn			cldr
+	it	Latn			cldr
+	iu	Latn			cldr
+	iu	Cans			cldr
+izh		Latn			cldr
+	ja	Jpan			cldr
+jam		Latn			cldr
+jgo		Latn			cldr
+jmc		Latn			cldr
+jml		Deva			cldr
+jpr		Hebr			cldr
+jrb		Hebr			cldr
+	jv	Latn			cldr
+	ka	Geor			cldr
+kaa		Cyrl			cldr
+kab		Latn			cldr
+kac		Latn			cldr
+kaj		Latn			cldr
+kam		Latn			cldr
+kao		Latn			cldr
+kbd		Cyrl			cldr
+kca		Cyrl			cldr
+kcg		Latn			cldr
+kck		Latn			cldr
+kde		Latn			cldr
+kdt		Thai			cldr
+kea		Latn			cldr
+kfo		Latn			cldr
+kfr		Deva			cldr
+kfy		Deva			cldr
+	kg	Latn			cldr
+kge		Latn			cldr
+kgp		Latn			cldr
+kha		Latn			cldr
+khb		Talu			cldr
+khn		Deva			cldr
+khq		Latn			cldr
+kht		Mymr			cldr
+khw		Arab			cldr
+	ki	Latn			cldr
+kiu		Latn			cldr
+	kj	Latn			cldr
+kjg		Laoo			cldr
+kjh		Cyrl			cldr
+	kk	Cyrl			cldr
+	kk	Arab			cldr
+kkj		Latn			cldr
+	kl	Latn			cldr
+kln		Latn			cldr
+	km	Khmr			cldr
+kmb		Latn			cldr
+	kn	Knda			cldr
+	ko	Kore			cldr
+koi		Cyrl			cldr
+kok		Deva			cldr
+kos		Latn			cldr
+kpe		Latn			cldr
+kpy		Cyrl			cldr
+	kr	Latn			cldr
+krc		Cyrl			cldr
+kri		Latn			cldr
+krj		Latn			cldr
+krl		Latn			cldr
+kru		Deva			cldr
+	ks	Deva			cldr
+	ks	Arab			cldr
+ksb		Latn			cldr
+ksf		Latn			cldr
+ksh		Latn			cldr
+	ku	Latn			cldr
+	ku	Cyrl			cldr
+	ku	Arab			cldr
+kum		Cyrl			cldr
+kut		Latn			cldr
+	kv	Cyrl			cldr
+kvr		Latn			cldr
+kvx		Arab			cldr
+	kw	Latn			cldr
+kxm		Thai			cldr
+kxp		Arab			cldr
+	ky	Latn			cldr
+	ky	Cyrl			cldr
+	ky	Arab			cldr
+kyu		Kali			cldr
+lad		Hebr			cldr
+lag		Latn			cldr
+lah		Arab			cldr
+laj		Latn			cldr
+lam		Latn			cldr
+	lb	Latn			cldr
+lbe		Cyrl			cldr
+lbw		Latn			cldr
+lcp		Thai			cldr
+lep		Lepc			cldr
+lez		Cyrl			cldr
+	lg	Latn			cldr
+	li	Latn			cldr
+lif		Limb			cldr
+lif		Deva			cldr
+lij		Latn			cldr
+lis		Lisu			cldr
+ljp		Latn			cldr
+lki		Arab			cldr
+lkt		Latn			cldr
+lmn		Telu			cldr
+lmo		Latn			cldr
+	ln	Latn			cldr
+	lo	Laoo			cldr
+lol		Latn			cldr
+loz		Latn			cldr
+lrc		Arab			cldr
+	lt	Latn			cldr
+ltg		Latn			cldr
+	lu	Latn			cldr
+lua		Latn			cldr
+lun		Latn			cldr
+luo		Latn			cldr
+lus		Beng			cldr
+luy		Latn			cldr
+luz		Arab			cldr
+	lv	Latn			cldr
+lwl		Thai			cldr
+lzz		Latn			cldr
+lzz		Geor			cldr
+mad		Latn			cldr
+maf		Latn			cldr
+mag		Deva			cldr
+mai		Deva			cldr
+mak		Latn			cldr
+man		Nkoo			cldr
+man		Latn			cldr
+mas		Latn			cldr
+maz		Latn			cldr
+mdf		Cyrl			cldr
+mdh		Latn			cldr
+mdr		Latn			cldr
+mdt		Latn			cldr
+men		Latn			cldr
+mer		Latn			cldr
+mfa		Arab			cldr
+mfe		Latn			cldr
+	mg	Latn			cldr
+mgh		Latn			cldr
+mgo		Latn			cldr
+mgp		Deva			cldr
+mgy		Latn			cldr
+	mh	Latn			cldr
+	mi	Latn			cldr
+mic		Latn			cldr
+min		Latn			cldr
+	mk	Cyrl			cldr
+	ml	Mlym			cldr
+mls		Latn			cldr
+	mn	Cyrl			cldr
+mni		Beng			cldr
+mns		Cyrl			cldr
+mnw		Mymr			cldr
+moe		Latn			cldr
+moh		Latn			cldr
+mos		Latn			cldr
+	mr	Deva			cldr
+mrd		Deva			cldr
+mrj		Cyrl			cldr
+mro		Latn			cldr
+	ms	Latn			cldr
+	ms	Arab			cldr
+	mt	Latn			cldr
+mtr		Deva			cldr
+mua		Latn			cldr
+mus		Latn			cldr
+mvy		Arab			cldr
+mwk		Latn			cldr
+mwl		Latn			cldr
+mwr		Deva			cldr
+mwv		Latn			cldr
+mxc		Latn			cldr
+	my	Mymr			cldr
+myv		Cyrl			cldr
+myx		Latn			cldr
+mzn		Arab			cldr
+	na	Latn			cldr
+nan		Hans			cldr
+nap		Latn			cldr
+naq		Latn			cldr
+	nb	Latn			cldr
+nch		Latn			cldr
+	nd	Latn			cldr
+ndc		Latn			cldr
+nds		Latn			cldr
+	ne	Deva			cldr
+new		Deva			cldr
+	ng	Latn			cldr
+ngl		Latn			cldr
+nhe		Latn			cldr
+nhw		Latn			cldr
+nia		Latn			cldr
+nij		Latn			cldr
+niu		Latn			cldr
+njo		Latn			cldr
+	nl	Latn			cldr
+nmg		Latn			cldr
+	nn	Latn			cldr
+nnh		Latn			cldr
+nod		Lana			cldr
+noe		Deva			cldr
+nog		Cyrl			cldr
+nqo		Nkoo			cldr
+	nr	Latn			cldr
+nsk		Cans			cldr
+nso		Latn			cldr
+nus		Latn			cldr
+	nv	Latn			cldr
+nxq		Latn			cldr
+	ny	Latn			cldr
+nym		Latn			cldr
+nyn		Latn			cldr
+nyo		Latn			cldr
+nzi		Latn			cldr
+	oc	Latn			cldr
+	oj	Cans			cldr
+	om	Latn			cldr
+	or	Orya			cldr
+	os	Cyrl			cldr
+osa		Osge			cldr
+	pa	Guru			cldr
+	pa	Arab			cldr
+pag		Latn			cldr
+pam		Latn			cldr
+pap		Latn			cldr
+pau		Latn			cldr
+pcd		Latn			cldr
+pcm		Latn			cldr
+pdc		Latn			cldr
+pdt		Latn			cldr
+pfl		Latn			cldr
+pko		Latn			cldr
+	pl	Latn			cldr
+pms		Latn			cldr
+pnt		Latn			cldr
+pnt		Grek			cldr
+pnt		Cyrl			cldr
+pon		Latn			cldr
+prd		Arab			cldr
+	ps	Arab			cldr
+	pt	Latn			cldr
+puu		Latn			cldr
+	qu	Latn			cldr
+quc		Latn			cldr
+qug		Latn			cldr
+raj		Deva			cldr
+rap		Latn			cldr
+rar		Latn			cldr
+rcf		Latn			cldr
+rej		Latn			cldr
+rgn		Latn			cldr
+ria		Latn			cldr
+rif		Tfng			cldr
+rif		Latn			cldr
+rjs		Deva			cldr
+rkt		Beng			cldr
+	rm	Latn			cldr
+rmf		Latn			cldr
+rmo		Latn			cldr
+rmt		Arab			cldr
+rmu		Latn			cldr
+	rn	Latn			cldr
+rng		Latn			cldr
+	ro	Latn			cldr
+rob		Latn			cldr
+rof		Latn			cldr
+rom		Latn			cldr
+rtm		Latn			cldr
+	ru	Cyrl			cldr
+rue		Cyrl			cldr
+rug		Latn			cldr
+rup		Latn			cldr
+	rw	Latn			cldr
+rwk		Latn			cldr
+ryu		Kana			cldr
+sad		Latn			cldr
+saf		Latn			cldr
+sah		Cyrl			cldr
+saq		Latn			cldr
+sas		Latn			cldr
+sat		Olck			cldr
+saz		Saur			cldr
+sbp		Latn			cldr
+	sc	Latn			cldr
+sck		Deva			cldr
+scn		Latn			cldr
+sco		Latn			cldr
+scs		Latn			cldr
+	sd	Deva			cldr
+	sd	Arab			cldr
+sdc		Latn			cldr
+sdh		Arab			cldr
+	se	Latn			cldr
+see		Latn			cldr
+sef		Latn			cldr
+seh		Latn			cldr
+sei		Latn			cldr
+ses		Latn			cldr
+	sg	Latn			cldr
+sgs		Latn			cldr
+shi		Tfng			cldr
+shi		Latn			cldr
+shi		Arab			cldr
+shn		Mymr			cldr
+	si	Sinh			cldr
+sid		Latn			cldr
+	sk	Latn			cldr
+skr		Arab			cldr
+	sl	Latn			cldr
+sli		Latn			cldr
+sly		Latn			cldr
+	sm	Latn			cldr
+sma		Latn			cldr
+smj		Latn			cldr
+smn		Latn			cldr
+sms		Latn			cldr
+	sn	Latn			cldr
+snk		Latn			cldr
+	so	Latn			cldr
+sou		Thai			cldr
+	sq	Latn			cldr
+	sr	Latn			cldr
+	sr	Cyrl			cldr
+srb		Latn			cldr
+srn		Latn			cldr
+srr		Latn			cldr
+srs		Latn			github
+srx		Deva			cldr
+	ss	Latn			cldr
+ssy		Latn			cldr
+	st	Latn			cldr
+stq		Latn			cldr
+	su	Latn			cldr
+suk		Latn			cldr
+sus		Latn			cldr
+	sv	Latn			cldr
+	sw	Latn			cldr
+swb		Arab			cldr
+swg		Latn			cldr
+swv		Deva			cldr
+sxn		Latn			cldr
+syi		Latn			cldr
+syl		Beng			cldr
+szl		Latn			cldr
+	ta	Taml			cldr
+tab		Cyrl			cldr
+taj		Deva			cldr
+tbw		Latn			cldr
+tcy		Knda			cldr
+tdd		Tale			cldr
+tdg		Deva			cldr
+tdh		Deva			cldr
+	te	Telu			cldr
+tem		Latn			cldr
+teo		Latn			cldr
+ter		Latn			cldr
+tet		Latn			cldr
+	tg	Latn			cldr
+	tg	Cyrl			cldr
+	tg	Arab			cldr
+	th	Thai			cldr
+thl		Deva			cldr
+thq		Deva			cldr
+thr		Deva			cldr
+	ti	Ethi			cldr
+tig		Ethi			cldr
+tiv		Latn			cldr
+	tk	Latn			cldr
+	tk	Cyrl			cldr
+	tk	Arab			cldr
+tkl		Latn			cldr
+tkr		Latn			cldr
+tkr		Cyrl			cldr
+tkt		Deva			cldr
+tli		Latn			cldr
+tly		Latn			cldr
+tly		Cyrl			cldr
+tly		Arab			cldr
+tmh		Latn			cldr
+	tn	Latn			cldr
+	to	Latn			cldr
+tog		Latn			cldr
+tpi		Latn			cldr
+	tr	Latn			cldr
+tru		Latn			cldr
+trv		Latn			cldr
+trw		Arab			cldr
+	ts	Latn			cldr
+tsd		Grek			cldr
+tsg		Latn			cldr
+tsi		Latn			cldr
+tsj		Tibt			cldr
+	tt	Cyrl			cldr
+ttj		Latn			cldr
+tts		Thai			cldr
+ttt		Latn			cldr
+ttt		Cyrl			cldr
+tum		Latn			cldr
+tvl		Latn			cldr
+twq		Latn			cldr
+	ty	Latn			cldr
+tyv		Cyrl			cldr
+tzm		Tfng			cldr
+tzm		Latn			cldr
+ude		Cyrl			cldr
+udm		Cyrl			cldr
+	ug	Cyrl			cldr
+	ug	Arab			cldr
+	uk	Cyrl			cldr
+uli		Latn			cldr
+umb		Latn			cldr
+unr		Deva			cldr
+unr		Beng			cldr
+unx		Deva			cldr
+unx		Beng			cldr
+	ur	Arab			cldr
+	uz	Latn			cldr
+	uz	Cyrl			cldr
+	uz	Arab			cldr
+vai		Vaii			cldr
+vai		Latn			cldr
+	ve	Latn			cldr
+vec		Latn			cldr
+vep		Latn			cldr
+	vi	Latn			cldr
+vic		Latn			cldr
+vls		Latn			cldr
+vmf		Latn			cldr
+vmw		Latn			cldr
+vro		Latn			cldr
+vun		Latn			cldr
+	wa	Latn			cldr
+wae		Latn			cldr
+wal		Ethi			cldr
+war		Latn			cldr
+was		Latn			cldr
+wbp		Latn			cldr
+wbq		Telu			cldr
+wbr		Deva			cldr
+wls		Latn			cldr
+wni		Arab			cldr
+	wo	Latn			cldr
+wtm		Deva			cldr
+wuu		Hans			cldr
+xal		Cyrl			cldr
+xav		Latn			cldr
+	xh	Latn			cldr
+xmf		Geor			cldr
+xnr		Deva			cldr
+xog		Latn			cldr
+xsr		Deva			cldr
+yao		Latn			cldr
+yap		Latn			cldr
+yav		Latn			cldr
+ybb		Latn			cldr
+	yi	Hebr			cldr
+	yo	Latn			cldr
+yrk		Cyrl			cldr
+yrl		Latn			cldr
+yua		Latn			cldr
+yue		Hant			cldr
+yue		Hans			cldr
+	za	Latn			cldr
+zag		Latn			cldr
+zap		Latn			cldr
+zdj		Arab			cldr
+zea		Latn			cldr
+zgh		Tfng			cldr
+	zh	Hant			cldr
+	zh	Hans			cldr
+zmi		Latn			cldr
+	zu	Latn			cldr
+zun		Latn			cldr
+zza		Latn			cldr
