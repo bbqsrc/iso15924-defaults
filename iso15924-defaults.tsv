@@ -8,7 +8,8 @@ ach		Latn			cldr
 ada		Latn			cldr
 ady		Cyrl			cldr
 aeb		Arab			cldr
-afr	af	Latn			cldr
+afr	af	Latn		1078	cldr
+afr	af	Latn	ZA	1078	cldr
 agq		Latn			cldr
 aii		Syrc			cldr
 aka	ak	Latn			cldr
@@ -16,14 +17,32 @@ akz		Latn			cldr
 ale		Latn			cldr
 aln		Latn			cldr
 alt		Cyrl			cldr
-amh	am	Ethi			cldr
+amh	am	Ethi		1118	cldr
+amh	am	Ethi	ET	1118	cldr
 amo		Latn			cldr
 anp		Deva			cldr
 aoz		Latn			cldr
 apu		Latn			giellatekno
-ara	ar	Arab			cldr
+ara	ar	Arab		1025	cldr
+ara	ar	Arab	AE	14337	cldr
+ara	ar	Arab	BH	15361	cldr
+ara	ar	Arab	DZ	5121	cldr
+ara	ar	Arab	EG	3073	cldr
+ara	ar	Arab	IQ	2049	cldr
+ara	ar	Arab	JO	11265	cldr
+ara	ar	Arab	KW	13313	cldr
+ara	ar	Arab	LB	12289	cldr
+ara	ar	Arab	LY	4097	cldr
+ara	ar	Arab	MA	6145	cldr
+ara	ar	Arab	OM	8193	cldr
+ara	ar	Arab	QA	16385	cldr
+ara	ar	Arab	SA	1025	cldr
+ara	ar	Arab	SY	10241	cldr
+ara	ar	Arab	TN	7169	cldr
+ara	ar	Arab	YE	9217	cldr
 arg	an	Latn			cldr
-arn		Latn			cldr
+arn		Latn		1146	cldr
+arn		Latn	CL	1146	cldr
 aro		Latn			cldr
 arp		Latn			cldr
 arq		Arab			cldr
@@ -31,14 +50,19 @@ ars		Arab			cldr
 ary		Arab			cldr
 arz		Arab			cldr
 asa		Latn			cldr
-asm	as	Beng			cldr
+asm	as	Beng		1101	cldr
+asm	as	Beng	IN	1101	cldr
 ast		Latn			cldr
 atj		Latn			cldr
 ava	av	Cyrl			cldr
 awa		Deva			cldr
 aym	ay	Latn			cldr
-aze	az	Latn			cldr
-bak	ba	Cyrl			cldr
+aze	az	Cyrl		2092	cldr
+aze	az	Cyrl	AZ	2092	cldr
+aze	az	Latn		1068	cldr
+aze	az	Latn	AZ	1068	cldr
+bak	ba	Cyrl		1133	cldr
+bak	ba	Cyrl	RU	1133	cldr
 bal		Arab			cldr
 bam	bm	Latn			cldr
 ban		Latn			cldr
@@ -50,9 +74,12 @@ bbc		Latn			cldr
 bbj		Latn			cldr
 bci		Latn			cldr
 bej		Arab			cldr
-bel	be	Cyrl			cldr
+bel	be	Cyrl		1059	cldr
+bel	be	Cyrl	BY	1059	cldr
 bem		Latn			cldr
-ben	bn	Beng			cldr
+ben	bn	Beng		2117	cldr
+ben	bn	Beng	BD	2117	cldr
+ben	bn	Beng	IN	1093	cldr
 bew		Latn			cldr
 bez		Latn			cldr
 bfd		Latn			cldr
@@ -66,7 +93,8 @@ bhb		Deva			cldr
 bhi		Deva			cldr
 bho		Deva			cldr
 bik		Latn			cldr
-bin		Latn			cldr
+bin		Latn		1126	cldr
+bin		Latn	NG	1126	cldr
 bis	bi	Latn			cldr
 bjj		Deva			cldr
 bjn		Latn			cldr
@@ -75,13 +103,18 @@ bku		Latn			cldr
 bla		Cans			giellatekno
 blt		Tavt			cldr
 bmq		Latn			cldr
-bod	bo	Tibt			cldr
-bos	bs	Latn			cldr
+bod	bo	Tibt		1105	cldr
+bod	bo	Tibt	CN	1105	cldr
+bos	bs	Cyrl		8218	cldr
+bos	bs	Cyrl	BA	8218	cldr
+bos	bs	Latn		5146	cldr
+bos	bs	Latn	BA	5146	cldr
 bpy		Beng			cldr
 bqi		Arab			cldr
 bqv		Latn			cldr
 bra		Deva			cldr
-bre	br	Latn			cldr
+bre	br	Latn		1150	cldr
+bre	br	Latn	FR	1150	cldr
 brh		Arab			cldr
 brx		Deva			cldr
 bss		Latn			cldr
@@ -90,7 +123,8 @@ btv		Deva			cldr
 bua		Cyrl			cldr
 buc		Latn			cldr
 bug		Latn			cldr
-bul	bg	Cyrl			cldr
+bul	bg	Cyrl		1026	cldr
+bul	bg	Cyrl	BG	1026	cldr
 bum		Latn			cldr
 bvb		Latn			cldr
 bxr		Cyrl			giellatekno
@@ -100,12 +134,15 @@ bze		Latn			cldr
 bzx		Latn			cldr
 cad		Latn			cldr
 car		Latn			cldr
-cat	ca	Latn			cldr
+cat	ca	Latn		1027	cldr
+cat	ca	Latn	ES	1027	cldr
+cat	ca	Latn	ES	2051	cldr
 cay		Latn			cldr
 cch		Latn			cldr
 ccp		Cakm			cldr
 ceb		Latn			cldr
-ces	cs	Latn			cldr
+ces	cs	Latn		1029	cldr
+ces	cs	Latn	CZ	1029	cldr
 cgg		Latn			cldr
 cha	ch	Latn			cldr
 che	ce	Cyrl			cldr
@@ -113,7 +150,8 @@ chk		Latn			cldr
 chm		Cyrl			cldr
 cho		Latn			cldr
 chp		Latn			cldr
-chr		Cher			cldr
+chr		Cher		1116	cldr
+chr		Cher	US	1116	cldr
 chv	cv	Cyrl			cldr
 chy		Latn			cldr
 cic		Latn			cldr
@@ -124,7 +162,8 @@ cjs		Cyrl			cldr
 ckb		Arab			cldr
 ckt		Cyrl			cldr
 cor	kw	Latn			cldr
-cos	co	Latn			cldr
+cos	co	Latn		1155	cldr
+cos	co	Latn	FR	1155	cldr
 cps		Latn			cldr
 cre	cr	Cans			cldr
 cre	cr	Latn			cldr
@@ -136,65 +175,118 @@ crm		Cans			cldr
 crs		Latn			cldr
 csw		Cans			cldr
 ctd		Latn			cldr
-cym	cy	Latn			cldr
+cym	cy	Latn		1106	cldr
+cym	cy	Latn	GB	1106	cldr
 dak		Latn			cldr
-dan	da	Latn			cldr
+dan	da	Latn		1030	cldr
+dan	da	Latn	DK	1030	cldr
 dar		Cyrl			cldr
 dav		Latn			cldr
 dcc		Arab			cldr
 del		Latn			cldr
 den		Latn			cldr
-deu	de	Latn			cldr
+deu	de	Latn		1031	cldr
+deu	de	Latn	AT	3079	cldr
+deu	de	Latn	CH	2055	cldr
+deu	de	Latn	DE	1031	cldr
+deu	de	Latn	LI	5127	cldr
+deu	de	Latn	LU	4103	cldr
 dgr		Latn			cldr
 din		Latn			cldr
-div	dv	Thaa			cldr
+div	dv	Thaa		1125	cldr
+div	dv	Thaa	MV	1125	cldr
 dje		Latn			cldr
 dng		Cyrl			cldr
 dnj		Latn			cldr
 doi		Arab			cldr
-dsb		Latn			cldr
+dsb		Latn		2094	cldr
+dsb		Latn	DE	2094	cldr
 dtm		Latn			cldr
 dtp		Latn			cldr
 dty		Deva			cldr
 dua		Latn			cldr
 dyo		Latn			cldr
 dyu		Latn			cldr
-dzo	dz	Tibt			cldr
+dzo	dz	Tibt		3153	cldr
+dzo	dz	Tibt	BT	3153	cldr
 ebu		Latn			cldr
 efi		Latn			cldr
 egl		Latn			cldr
 eka		Latn			cldr
 eky		Kali			cldr
-ell	el	Grek			cldr
-eng	en	Latn			cldr
+ell	el	Grek		1032	cldr
+ell	el	Grek	GR	1032	cldr
+eng	en	Latn		1033	cldr
+eng	en	Latn	029	9225	cldr
+eng	en	Latn	AU	3081	cldr
+eng	en	Latn	BZ	10249	cldr
+eng	en	Latn	CA	4105	cldr
+eng	en	Latn	GB	2057	cldr
+eng	en	Latn	HK	15369	cldr
+eng	en	Latn	ID	14345	cldr
+eng	en	Latn	IE	6153	cldr
+eng	en	Latn	IN	16393	cldr
+eng	en	Latn	JM	8201	cldr
+eng	en	Latn	MY	17417	cldr
+eng	en	Latn	NZ	5129	cldr
+eng	en	Latn	PH	13321	cldr
+eng	en	Latn	SG	18441	cldr
+eng	en	Latn	TT	11273	cldr
+eng	en	Latn	US	1033	cldr
+eng	en	Latn	ZA	7177	cldr
+eng	en	Latn	ZW	12297	cldr
 epo	eo	Latn			cldr
 ess		Latn			giellatekno
-est	et	Latn			cldr
+est	et	Latn		1061	cldr
+est	et	Latn	EE	1061	cldr
 esu		Latn			cldr
-eus	eu	Latn			cldr
+eus	eu	Latn		1069	cldr
+eus	eu	Latn	ES	1069	cldr
 evn		Cyrl			cldr
 ewe	ee	Latn			cldr
 ewo		Latn			cldr
 ext		Latn			cldr
 fan		Latn			cldr
-fao	fo	Latn			cldr
-fas	fa	Arab			cldr
+fao	fo	Latn		1080	cldr
+fao	fo	Latn	FO	1080	cldr
+fas	fa	Arab		1065	cldr
+fas	fa	Arab	IR	1065	cldr
 ffm		Latn			cldr
 fia		Arab			cldr
 fij	fj	Latn			cldr
-fil		Latn			cldr
-fin	fi	Latn			cldr
+fil		Latn		1124	cldr
+fil		Latn	PH	1124	cldr
+fin	fi	Latn		1035	cldr
+fin	fi	Latn	FI	1035	cldr
 fit		Latn			cldr
 fkv		Latn			giellatekno
 fon		Latn			cldr
-fra	fr	Latn			cldr
+fra	fr	Latn		1036	cldr
+fra	fr	Latn	029	7180	cldr
+fra	fr	Latn	BE	2060	cldr
+fra	fr	Latn	CA	3084	cldr
+fra	fr	Latn	CD	9228	cldr
+fra	fr	Latn	CH	4108	cldr
+fra	fr	Latn	CI	12300	cldr
+fra	fr	Latn	CM	11276	cldr
+fra	fr	Latn	FR	1036	cldr
+fra	fr	Latn	HT	15372	cldr
+fra	fr	Latn	LU	5132	cldr
+fra	fr	Latn	MA	14348	cldr
+fra	fr	Latn	MC	6156	cldr
+fra	fr	Latn	ML	13324	cldr
+fra	fr	Latn	RE	8204	cldr
+fra	fr	Latn	SN	10252	cldr
 frc		Latn			cldr
 frp		Latn			cldr
 frr		Latn			cldr
 frs		Latn			cldr
-fry	fy	Latn			cldr
+fry	fy	Latn		1122	cldr
+fry	fy	Latn	NL	1122	cldr
 fud		Latn			cldr
-ful	ff	Latn			cldr
+ful	ff	Latn		2151	cldr
+ful	ff	Latn	NG	1127	cldr
+ful	ff	Latn	SN	2151	cldr
 fuq		Latn			cldr
 fur		Latn			cldr
 fuv		Latn			cldr
@@ -210,10 +302,13 @@ gcr		Latn			cldr
 gil		Latn			cldr
 gjk		Arab			cldr
 gju		Arab			cldr
-gla	gd	Latn			cldr
+gla	gd	Latn		1169	cldr
+gla	gd	Latn	GB	1169	cldr
 gld		Cyrl			cldr
-gle	ga	Latn			cldr
-glg	gl	Latn			cldr
+gle	ga	Latn		2108	cldr
+gle	ga	Latn	IE	2108	cldr
+glg	gl	Latn		1110	cldr
+glg	gl	Latn	ES	1110	cldr
 glk		Arab			cldr
 glv	gv	Latn			cldr
 gom		Deva			cldr
@@ -222,12 +317,15 @@ gon		Telu			cldr
 gor		Latn			cldr
 gos		Latn			cldr
 grb		Latn			cldr
-grn	gn	Latn			cldr
+grn	gn	Latn		1140	cldr
+grn	gn	Latn	PY	1140	cldr
 grt		Beng			cldr
 gsw		Latn			cldr
+gsw		Latn	FR	1156	cldr
 gub		Latn			cldr
 guc		Latn			cldr
-guj	gu	Gujr			cldr
+guj	gu	Gujr		1095	cldr
+guj	gu	Gujr	IN	1095	cldr
 gur		Latn			cldr
 guz		Latn			cldr
 gvr		Deva			cldr
@@ -235,16 +333,20 @@ gwi		Latn			cldr
 hai		Latn			cldr
 hak		Hans			cldr
 hat	ht	Latn			cldr
-hau	ha	Latn			cldr
-haw		Latn			cldr
+hau	ha	Latn		1128	cldr
+hau	ha	Latn	NG	1128	cldr
+haw		Latn		1141	cldr
+haw		Latn	US	1141	cldr
 haz		Arab			cldr
 hdn		Latn			giellatekno
-heb	he	Hebr			cldr
+heb	he	Hebr		1037	cldr
+heb	he	Hebr	IL	1037	cldr
 her	hz	Latn			cldr
 hif		Deva			cldr
 hif		Latn			cldr
 hil		Latn			cldr
-hin	hi	Deva			cldr
+hin	hi	Deva		1081	cldr
+hin	hi	Deva	IN	1081	cldr
 hmd		Plrd			cldr
 hmn		Latn			cldr
 hmo	ho	Latn			cldr
@@ -256,47 +358,70 @@ hno		Arab			cldr
 hoc		Deva			cldr
 hoj		Deva			cldr
 hop		Latn			cldr
-hrv	hr	Latn			cldr
-hsb		Latn			cldr
+hrv	hr	Latn		1050	cldr
+hrv	hr	Latn	BA	4122	cldr
+hrv	hr	Latn	HR	1050	cldr
+hsb		Latn		1070	cldr
+hsb		Latn	DE	1070	cldr
 hsn		Hans			cldr
-hun	hu	Latn			cldr
+hun	hu	Latn		1038	cldr
+hun	hu	Latn	HU	1038	cldr
 hup		Latn			cldr
-hye	hy	Armn			cldr
+hye	hy	Armn		1067	cldr
+hye	hy	Armn	AM	1067	cldr
 iba		Latn			cldr
-ibb		Latn			cldr
-ibo	ig	Latn			cldr
+ibb		Latn		1129	cldr
+ibb		Latn	NG	1129	cldr
+ibo	ig	Latn		1136	cldr
+ibo	ig	Latn	NG	1136	cldr
 ife		Latn			cldr
-iii	ii	Yiii			cldr
+iii	ii	Yiii		1144	cldr
+iii	ii	Yiii	CN	1144	cldr
 ikt		Latn			cldr
-iku	iu	Latn			cldr
+iku	iu	Cans		1117	cldr
+iku	iu	Cans	CA	1117	cldr
+iku	iu	Latn		2141	cldr
+iku	iu	Latn	CA	2141	cldr
 ilo		Latn			cldr
-ind	id	Latn			cldr
+ind	id	Latn		1057	cldr
+ind	id	Latn	ID	1057	cldr
 inh		Cyrl			cldr
 ipk	ik	Latn			cldr
-isl	is	Latn			cldr
-ita	it	Latn			cldr
+isl	is	Latn		1039	cldr
+isl	is	Latn	IS	1039	cldr
+ita	it	Latn		1040	cldr
+ita	it	Latn	CH	2064	cldr
+ita	it	Latn	IT	1040	cldr
 izh		Latn			cldr
 jam		Latn			cldr
 jav	jv	Latn			cldr
 jgo		Latn			cldr
 jmc		Latn			cldr
 jml		Deva			cldr
-jpn	ja	Jpan			cldr
+jpn	ja	Jpan		1041	cldr
+jpn	ja	Jpan	JP	1041	cldr
 jpr		Hebr			cldr
 jrb		Hebr			cldr
 kaa		Cyrl			cldr
 kab		Latn			cldr
 kac		Latn			cldr
 kaj		Latn			cldr
-kal	kl	Latn			cldr
+kal	kl	Latn		1135	cldr
+kal	kl	Latn	GL	1135	cldr
 kam		Latn			cldr
-kan	kn	Knda			cldr
+kan	kn	Knda		1099	cldr
+kan	kn	Knda	IN	1099	cldr
 kao		Latn			cldr
 kas	ks	Arab			cldr
 kas	ks	Deva			cldr
-kat	ka	Geor			cldr
-kau	kr	Latn			cldr
-kaz	kk	Arab			cldr
+kas	ks	Deva		2144	cldr
+kas	ks	Deva	IN	2144	cldr
+kat	ka	Geor		1079	cldr
+kat	ka	Geor	GE	1079	cldr
+kau	kr	Latn		1137	cldr
+kau	kr	Latn	NG	1137	cldr
+kaz	kk	Arab		1087	cldr
+kaz	kk	Arab	KZ	1087	cldr
 kaz	kk	Cyrl			cldr
 kbd		Cyrl			cldr
 kca		Cyrl			cldr
@@ -314,15 +439,18 @@ kgp		Latn			cldr
 kha		Latn			cldr
 khb		Talu			cldr
 khk		Cyrl			giellatekno
-khm	km	Khmr			cldr
+khm	km	Khmr		1107	cldr
+khm	km	Khmr	KH	1107	cldr
 khn		Deva			cldr
 khq		Latn			cldr
 kht		Mymr			cldr
 khw		Arab			cldr
 kik	ki	Latn			cldr
-kin	rw	Latn			cldr
+kin	rw	Latn		1159	cldr
+kin	rw	Latn	RW	1159	cldr
 kio		Latn			giellatekno
-kir	ky	Arab			cldr
+kir	ky	Arab		1088	cldr
+kir	ky	Arab	KG	1088	cldr
 kir	ky	Cyrl			cldr
 kir	ky	Latn			cldr
 kiu		Latn			cldr
@@ -332,10 +460,12 @@ kkj		Latn			cldr
 kln		Latn			cldr
 kmb		Latn			cldr
 koi		Cyrl			cldr
-kok		Deva			cldr
+kok		Deva		1111	cldr
+kok		Deva	IN	1111	cldr
 kom	kv	Cyrl			cldr
 kon	kg	Latn			cldr
-kor	ko	Kore			cldr
+kor	ko	Kore		1042	cldr
+kor	ko	Kore	KR	1042	cldr
 kos		Latn			cldr
 kpe		Latn			cldr
 kpv		Cyrl			giellatekno
@@ -350,7 +480,8 @@ ksf		Latn			cldr
 ksh		Latn			cldr
 kua	kj	Latn			cldr
 kum		Cyrl			cldr
-kur	ku	Arab			cldr
+kur	ku	Arab		1170	cldr
+kur	ku	Arab	IQ	1170	cldr
 kur	ku	Cyrl			cldr
 kur	ku	Latn			cldr
 kut		Latn			cldr
@@ -364,8 +495,12 @@ lag		Latn			cldr
 lah		Arab			cldr
 laj		Latn			cldr
 lam		Latn			cldr
-lao	lo	Laoo			cldr
-lav	lv	Latn			cldr
+lao	lo	Laoo		1108	cldr
+lao	lo	Laoo	LA	1108	cldr
+lat	la	Latn		1142	giellatekno
+lat	la	Latn	001	1142	giellatekno
+lav	lv	Latn		1062	cldr
+lav	lv	Latn	LV	1062	cldr
 lbe		Cyrl			cldr
 lbw		Latn			cldr
 lcp		Thai			cldr
@@ -377,7 +512,8 @@ lij		Latn			cldr
 lim	li	Latn			cldr
 lin	ln	Latn			cldr
 lis		Lisu			cldr
-lit	lt	Latn			cldr
+lit	lt	Latn		1063	cldr
+lit	lt	Latn	LT	1063	cldr
 liv		Latn			giellatekno
 ljp		Latn			cldr
 lki		Arab			cldr
@@ -388,7 +524,8 @@ lol		Latn			cldr
 loz		Latn			cldr
 lrc		Arab			cldr
 ltg		Latn			cldr
-ltz	lb	Latn			cldr
+ltz	lb	Latn		1134	cldr
+ltz	lb	Latn	LU	1134	cldr
 lua		Latn			cldr
 lub	lu	Latn			cldr
 lug	lg	Latn			cldr
@@ -407,10 +544,12 @@ mag		Deva			cldr
 mah	mh	Latn			cldr
 mai		Deva			cldr
 mak		Latn			cldr
-mal	ml	Mlym			cldr
+mal	ml	Mlym		1100	cldr
+mal	ml	Mlym	IN	1100	cldr
 man		Latn			cldr
 man		Nkoo			cldr
-mar	mr	Deva			cldr
+mar	mr	Deva		1102	cldr
+mar	mr	Deva	IN	1102	cldr
 mas		Latn			cldr
 maz		Latn			cldr
 mdf		Cyrl			cldr
@@ -428,22 +567,33 @@ mgy		Latn			cldr
 mhr		Cyrl			giellatekno
 mic		Latn			cldr
 min		Latn			cldr
-mkd	mk	Cyrl			cldr
+mkd	mk	Cyrl		1071	cldr
+mkd	mk	Cyrl	MK	1071	cldr
 mlg	mg	Latn			cldr
 mls		Latn			cldr
-mlt	mt	Latn			cldr
-mni		Beng			cldr
+mlt	mt	Latn		1082	cldr
+mlt	mt	Latn	MT	1082	cldr
+mni		Beng		1112	cldr
+mni		Beng	IN	1112	cldr
 mns		Cyrl			cldr
 mnw		Mymr			cldr
 moe		Latn			cldr
-moh		Latn			cldr
-mon	mn	Cyrl			cldr
+moh		Latn		1148	cldr
+moh		Latn	CA	1148	cldr
+mon	mn	Cyrl		1104	cldr
+mon	mn	Cyrl	MN	1104	cldr
+mon	mn	Mong		2128	cldr
+mon	mn	Mong	CN	2128	cldr
+mon	mn	Mong	MN	3152	cldr
 mos		Latn			cldr
 mrd		Deva			cldr
-mri	mi	Latn			cldr
+mri	mi	Latn		1153	cldr
+mri	mi	Latn	NZ	1153	cldr
 mrj		Cyrl			cldr
 mro		Latn			cldr
-msa	ms	Arab			cldr
+msa	ms	Arab		1086	cldr
+msa	ms	Arab	BN	2110	cldr
+msa	ms	Arab	MY	1086	cldr
 msa	ms	Latn			cldr
 mtr		Deva			cldr
 mua		Latn			cldr
@@ -454,7 +604,8 @@ mwl		Latn			cldr
 mwr		Deva			cldr
 mwv		Latn			cldr
 mxc		Latn			cldr
-mya	my	Mymr			cldr
+mya	my	Mymr		1109	cldr
+mya	my	Mymr	MM	1109	cldr
 myv		Cyrl			cldr
 myx		Latn			cldr
 mzn		Arab			cldr
@@ -470,7 +621,9 @@ nde	nd	Latn			cldr
 ndl		Latn			giellatekno
 ndo	ng	Latn			cldr
 nds		Latn			cldr
-nep	ne	Deva			cldr
+nep	ne	Deva		1121	cldr
+nep	ne	Deva	IN	2145	cldr
+nep	ne	Deva	NP	1121	cldr
 new		Deva			cldr
 ngl		Latn			cldr
 nhe		Latn			cldr
@@ -480,18 +633,24 @@ nij		Latn			cldr
 nio		Cyrl			giellatekno
 niu		Latn			cldr
 njo		Latn			cldr
-nld	nl	Latn			cldr
+nld	nl	Latn		1043	cldr
+nld	nl	Latn	BE	2067	cldr
+nld	nl	Latn	NL	1043	cldr
 nmg		Latn			cldr
 nnh		Latn			cldr
-nno	nn	Latn			cldr
-nob	nb	Latn			cldr
+nno	nn	Latn		2068	cldr
+nno	nn	Latn	NO	2068	cldr
+nob	nb	Latn		1044	cldr
+nob	nb	Latn	NO	1044	cldr
 nod		Lana			cldr
 noe		Deva			cldr
 nog		Cyrl			cldr
 non		Runr			giellatekno
+nor	no	Latn		1044	giellatekno
 nqo		Nkoo			cldr
 nsk		Cans			cldr
-nso		Latn			cldr
+nso		Latn		1132	cldr
+nso		Latn	ZA	1132	cldr
 nus		Latn			cldr
 nxq		Latn			cldr
 nya	ny	Latn			cldr
@@ -499,18 +658,24 @@ nym		Latn			cldr
 nyn		Latn			cldr
 nyo		Latn			cldr
 nzi		Latn			cldr
-oci	oc	Latn			cldr
+oci	oc	Latn		1154	cldr
+oci	oc	Latn	FR	1154	cldr
 oji	oj	Latn			giellatekno
 olo		Latn			giellatekno
-ori	or	Orya			cldr
-orm	om	Latn			cldr
+ori	or	Orya		1096	cldr
+ori	or	Orya	IN	1096	cldr
+orm	om	Latn		1138	cldr
+orm	om	Latn	ET	1138	cldr
 osa		Osge			cldr
 oss	os	Cyrl			cldr
 pag		Latn			cldr
 pam		Latn			cldr
-pan	pa	Arab			cldr
+pan	pa	Arab		2118	cldr
+pan	pa	Arab	IN	1094	cldr
+pan	pa	Arab	PK	2118	cldr
 pan	pa	Guru			cldr
-pap		Latn			cldr
+pap		Latn		1145	cldr
+pap		Latn	029	1145	cldr
 pau		Latn			cldr
 pcd		Latn			cldr
 pcm		Latn			cldr
@@ -522,15 +687,26 @@ pms		Latn			cldr
 pnt		Cyrl			cldr
 pnt		Grek			cldr
 pnt		Latn			cldr
-pol	pl	Latn			cldr
+pol	pl	Latn		1045	cldr
+pol	pl	Latn	PL	1045	cldr
 pon		Latn			cldr
-por	pt	Latn			cldr
+por	pt	Latn		1046	cldr
+por	pt	Latn	BR	1046	cldr
+por	pt	Latn	PT	2070	cldr
 prd		Arab			cldr
-pus	ps	Arab			cldr
+prs		Arab		1164	giellatekno
+prs		Arab	AF	1164	giellatekno
+pus	ps	Arab		1123	cldr
+pus	ps	Arab	AF	1123	cldr
 puu		Latn			cldr
-quc		Latn			cldr
+quc		Latn		1158	cldr
+quc		Latn	GT	1158	cldr
 que	qu	Latn			cldr
 qug		Latn			cldr
+quz		Latn		1131	giellatekno
+quz		Latn	BO	1131	giellatekno
+quz		Latn	EC	2155	giellatekno
+quz		Latn	PE	3179	giellatekno
 raj		Deva			cldr
 rap		Latn			cldr
 rar		Latn			cldr
@@ -551,21 +727,29 @@ rmy		Latn			giellatekno
 rng		Latn			cldr
 rob		Latn			cldr
 rof		Latn			cldr
-roh	rm	Latn			cldr
+roh	rm	Latn		1047	cldr
+roh	rm	Latn	CH	1047	cldr
 rom		Latn			cldr
-ron	ro	Latn			cldr
+ron	ro	Latn		1048	cldr
+ron	ro	Latn	MD	2072	cldr
+ron	ro	Latn	RO	1048	cldr
 rtm		Latn			cldr
 rue		Cyrl			cldr
 rug		Latn			cldr
 run	rn	Latn			cldr
 rup		Latn			cldr
-rus	ru	Cyrl			cldr
+rus	ru	Cyrl		1049	cldr
+rus	ru	Cyrl	MD	2073	cldr
+rus	ru	Cyrl	RU	1049	cldr
 rwk		Latn			cldr
 ryu		Kana			cldr
 sad		Latn			cldr
 saf		Latn			cldr
 sag	sg	Latn			cldr
-sah		Cyrl			cldr
+sah		Cyrl		1157	cldr
+sah		Cyrl	RU	1157	cldr
+san	sa	Deva		1103	giellatekno
+san	sa	Deva	IN	1103	giellatekno
 saq		Latn			cldr
 sas		Latn			cldr
 sat		Olck			cldr
@@ -589,35 +773,82 @@ shi		Latn			cldr
 shi		Tfng			cldr
 shn		Mymr			cldr
 sid		Latn			cldr
-sin	si	Sinh			cldr
+sin	si	Sinh		1115	cldr
+sin	si	Sinh	LK	1115	cldr
 sjd		Cyrl			giellatekno
 sje		Latn			giellatekno
 sjt		Cyrl			giellatekno
 skr		Arab			cldr
 sli		Latn			cldr
-slk	sk	Latn			cldr
-slv	sl	Latn			cldr
+slk	sk	Latn		1051	cldr
+slk	sk	Latn	SK	1051	cldr
+slv	sl	Latn		1060	cldr
+slv	sl	Latn	SI	1060	cldr
 sly		Latn			cldr
-sma		Latn			cldr
-sme	se	Latn			cldr
-smj		Latn			cldr
-smn		Latn			cldr
+sma		Latn		7227	cldr
+sma		Latn	NO	6203	cldr
+sma		Latn	SE	7227	cldr
+sme	se	Latn		1083	cldr
+sme	se	Latn	FI	3131	cldr
+sme	se	Latn	NO	1083	cldr
+sme	se	Latn	SE	2107	cldr
+smj		Latn		5179	cldr
+smj		Latn	NO	4155	cldr
+smj		Latn	SE	5179	cldr
+smn		Latn		9275	cldr
+smn		Latn	FI	9275	cldr
 smo	sm	Latn			cldr
-sms		Latn			cldr
+sms		Latn		8251	cldr
+sms		Latn	FI	8251	cldr
 sna	sn	Latn			cldr
-snd	sd	Arab			cldr
+snd	sd	Arab		2137	cldr
+snd	sd	Arab	PK	2137	cldr
 snd	sd	Deva			cldr
+snd	sd	Deva		1113	cldr
+snd	sd	Deva	IN	1113	cldr
 snk		Latn			cldr
-som	so	Latn			cldr
-sot	st	Latn			cldr
+som	so	Latn		1143	cldr
+som	so	Latn	SO	1143	cldr
+sot	st	Latn		1072	cldr
+sot	st	Latn	ZA	1072	cldr
 sou		Thai			cldr
-spa	es	Latn			cldr
-sqi	sq	Latn			cldr
+spa	es	Latn		3082	cldr
+spa	es	Latn	419	22538	cldr
+spa	es	Latn	AR	11274	cldr
+spa	es	Latn	BO	16394	cldr
+spa	es	Latn	CL	13322	cldr
+spa	es	Latn	CO	9226	cldr
+spa	es	Latn	CR	5130	cldr
+spa	es	Latn	CU	23562	cldr
+spa	es	Latn	DO	7178	cldr
+spa	es	Latn	EC	12298	cldr
+spa	es	Latn	ES	3082	cldr
+spa	es	Latn	GT	4106	cldr
+spa	es	Latn	HN	18442	cldr
+spa	es	Latn	MX	2058	cldr
+spa	es	Latn	NI	19466	cldr
+spa	es	Latn	PA	6154	cldr
+spa	es	Latn	PE	10250	cldr
+spa	es	Latn	PR	20490	cldr
+spa	es	Latn	PY	15370	cldr
+spa	es	Latn	SV	17418	cldr
+spa	es	Latn	US	21514	cldr
+spa	es	Latn	UY	14346	cldr
+spa	es	Latn	VE	8202	cldr
+sqi	sq	Latn		1052	cldr
+sqi	sq	Latn	AL	1052	cldr
 srb		Latn			cldr
 srd	sc	Latn			cldr
 srn		Latn			cldr
-srp	sr	Cyrl			cldr
+srp	sr	Cyrl		10266	cldr
+srp	sr	Cyrl	BA	7194	cldr
+srp	sr	Cyrl	ME	12314	cldr
+srp	sr	Cyrl	RS	10266	cldr
 srp	sr	Latn			cldr
+srp	sr	Latn		9242	cldr
+srp	sr	Latn	BA	6170	cldr
+srp	sr	Latn	ME	11290	cldr
+srp	sr	Latn	RS	9242	cldr
 srr		Latn			cldr
 srs		Latn			giellatekno
 srx		Deva			cldr
@@ -628,41 +859,55 @@ stq		Latn			cldr
 suk		Latn			cldr
 sun	su	Latn			cldr
 sus		Latn			cldr
-swa	sw	Latn			cldr
+swa	sw	Latn		1089	cldr
+swa	sw	Latn	KE	1089	cldr
 swb		Arab			cldr
-swe	sv	Latn			cldr
+swe	sv	Latn		1053	cldr
+swe	sv	Latn	FI	2077	cldr
+swe	sv	Latn	SE	1053	cldr
 swg		Latn			cldr
 swv		Deva			cldr
 sxn		Latn			cldr
 syi		Latn			cldr
 syl		Beng			cldr
+syr		Syrc		1114	giellatekno
+syr		Syrc	SY	1114	giellatekno
 szl		Latn			cldr
 tab		Cyrl			cldr
 tah	ty	Latn			cldr
 taj		Deva			cldr
-tam	ta	Taml			cldr
-tat	tt	Cyrl			cldr
+tam	ta	Taml		1097	cldr
+tam	ta	Taml	IN	1097	cldr
+tam	ta	Taml	LK	2121	cldr
+tat	tt	Cyrl		1092	cldr
+tat	tt	Cyrl	RU	1092	cldr
 tau		Latn			giellatekno
 tbw		Latn			cldr
 tcy		Knda			cldr
 tdd		Tale			cldr
 tdg		Deva			cldr
 tdh		Deva			cldr
-tel	te	Telu			cldr
+tel	te	Telu		1098	cldr
+tel	te	Telu	IN	1098	cldr
 tem		Latn			cldr
 teo		Latn			cldr
 ter		Latn			cldr
 tet		Latn			cldr
-tgk	tg	Arab			cldr
+tgk	tg	Arab		1064	cldr
 tgk	tg	Cyrl			cldr
+tgk	tg	Cyrl		1064	cldr
+tgk	tg	Cyrl	TJ	1064	cldr
 tgk	tg	Latn			cldr
 tgl	tl	Latn			giellatekno
-tha	th	Thai			cldr
+tha	th	Thai		1054	cldr
+tha	th	Thai	TH	1054	cldr
 thl		Deva			cldr
 thq		Deva			cldr
 thr		Deva			cldr
 tig		Ethi			cldr
-tir	ti	Ethi			cldr
+tir	ti	Ethi		2163	cldr
+tir	ti	Ethi	ER	2163	cldr
+tir	ti	Ethi	ET	1139	cldr
 tiv		Latn			cldr
 tkl		Latn			cldr
 tkr		Cyrl			cldr
@@ -685,45 +930,65 @@ tsd		Grek			cldr
 tsg		Latn			cldr
 tsi		Latn			cldr
 tsj		Tibt			cldr
-tsn	tn	Latn			cldr
-tso	ts	Latn			cldr
+tsn	tn	Latn		1074	cldr
+tsn	tn	Latn	BW	2098	cldr
+tsn	tn	Latn	ZA	1074	cldr
+tso	ts	Latn		1073	cldr
+tso	ts	Latn	ZA	1073	cldr
 ttj		Latn			cldr
 tts		Thai			cldr
 ttt		Cyrl			cldr
 ttt		Latn			cldr
-tuk	tk	Arab			cldr
+tuk	tk	Arab		1090	cldr
+tuk	tk	Arab	TM	1090	cldr
 tuk	tk	Cyrl			cldr
 tuk	tk	Latn			cldr
 tum		Latn			cldr
-tur	tr	Latn			cldr
+tur	tr	Latn		1055	cldr
+tur	tr	Latn	TR	1055	cldr
 tuv		Latn			giellatekno
 tvl		Latn			cldr
 twq		Latn			cldr
 tyv		Cyrl			cldr
-tzm		Latn			cldr
+tzm		Arab		1119	cldr
+tzm		Arab	MA	1119	cldr
+tzm		Latn		2143	cldr
+tzm		Latn	DZ	2143	cldr
 tzm		Tfng			cldr
+tzm		Tfng		4191	cldr
+tzm		Tfng	MA	4191	cldr
 ude		Cyrl			cldr
 udm		Cyrl			cldr
-uig	ug	Arab			cldr
+uig	ug	Arab		1152	cldr
+uig	ug	Arab	CN	1152	cldr
 uig	ug	Cyrl			cldr
-ukr	uk	Cyrl			cldr
+ukr	uk	Cyrl		1058	cldr
+ukr	uk	Cyrl	UA	1058	cldr
 uli		Latn			cldr
 umb		Latn			cldr
 unr		Beng			cldr
 unr		Deva			cldr
 unx		Beng			cldr
 unx		Deva			cldr
-urd	ur	Arab			cldr
-uzb	uz	Arab			cldr
+urd	ur	Arab		1056	cldr
+urd	ur	Arab	IN	2080	cldr
+urd	ur	Arab	PK	1056	cldr
+uzb	uz	Arab		1091	cldr
 uzb	uz	Cyrl			cldr
+uzb	uz	Cyrl		2115	cldr
+uzb	uz	Cyrl	UZ	2115	cldr
 uzb	uz	Latn			cldr
+uzb	uz	Latn		1091	cldr
+uzb	uz	Latn	UZ	1091	cldr
 vai		Latn			cldr
 vai		Vaii			cldr
 vec		Latn			cldr
-ven	ve	Latn			cldr
+ven	ve	Latn		1075	cldr
+ven	ve	Latn	ZA	1075	cldr
 vep		Latn			cldr
 vic		Latn			cldr
-vie	vi	Latn			cldr
+vie	vi	Latn		1066	cldr
+vie	vi	Latn	VN	1066	cldr
 vls		Latn			cldr
 vmf		Latn			cldr
 vmw		Latn			cldr
@@ -740,12 +1005,14 @@ wbr		Deva			cldr
 wln	wa	Latn			cldr
 wls		Latn			cldr
 wni		Arab			cldr
-wol	wo	Latn			cldr
+wol	wo	Latn		1160	cldr
+wol	wo	Latn	SN	1160	cldr
 wtm		Deva			cldr
 wuu		Hans			cldr
 xal		Cyrl			cldr
 xav		Latn			cldr
-xho	xh	Latn			cldr
+xho	xh	Latn		1076	cldr
+xho	xh	Latn	ZA	1076	cldr
 xmf		Geor			cldr
 xnr		Deva			cldr
 xog		Latn			cldr
@@ -755,8 +1022,10 @@ yao		Latn			cldr
 yap		Latn			cldr
 yav		Latn			cldr
 ybb		Latn			cldr
-yid	yi	Hebr			cldr
-yor	yo	Latn			cldr
+yid	yi	Hebr		1085	cldr
+yid	yi	Hebr	001	1085	cldr
+yor	yo	Latn		1130	cldr
+yor	yo	Latn	NG	1130	cldr
 yrk		Cyrl			cldr
 yrl		Latn			cldr
 yua		Latn			cldr
@@ -768,9 +1037,16 @@ zdj		Arab			cldr
 zea		Latn			cldr
 zgh		Tfng			cldr
 zha	za	Latn			cldr
-zho	zh	Hans			cldr
+zho	zh	Hans		2052	cldr
+zho	zh	Hans	CN	2052	cldr
+zho	zh	Hant	HK	3076	cldr
+zho	zh	Hans	MO	5124	cldr
+zho	zh	Hans	SG	4100	cldr
+zho	zh	Hant	TW	1028	cldr
 zho	zh	Hant			cldr
+zho	zh	Hant		3076	cldr
 zmi		Latn			cldr
-zul	zu	Latn			cldr
+zul	zu	Latn		1077	cldr
+zul	zu	Latn	ZA	1077	cldr
 zun		Latn			cldr
 zza		Latn			cldr
